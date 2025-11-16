@@ -1,0 +1,18 @@
+{
+  "SIGN_SPEED_LIMIT_600MM": ["speed limit sign", "maximum speed limit"],
+  "SIGN_SCHOOL_AHEAD_600MM": ["school ahead sign"],
+  "SIGN_FUEL_PUMP_600MM": ["fuel pump sign", "fuel station sign"],
+  "SIGN_SIDE_ROAD_AHEAD_600MM": ["side road ahead sign"],
+  "SIGN_NO_PARKING_600MM": ["no parking sign"],
+  "SIGN_PEDESTRIAN_CROSSING_600MM": ["pedestrian crossing sign"],
+
+  "MARK_LONGITUDINAL_REPAINT": ["longitudinal markings", "edge lines", "lane markings", "repaint"],
+  "MARK_PEDESTRIAN_CROSSING": ["pedestrian crossing", "zebra crossing", "repaint"],
+  "STUD_RETRO_BIDIR": ["road studs", "retroreflective studs"],
+
+  "POTHOLE_PATCH_20MM": ["pothole"],
+  "SOLAR_BLINKER_REPAIR": ["solar blinker", "not in working condition", "repair"],
+  "STREETLIGHT_LED_90W": ["streetlights", "lighting facilities"],
+  "FMM_BRIDGE": ["fmm", "minor bridge"],
+  "DELINEATOR_POLE": ["delineators", "guide poles", "roadway indicators"]
+}
